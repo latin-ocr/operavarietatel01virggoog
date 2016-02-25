@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavarietatel01virggoog_0001.png"; bbox 0 0 3475 6234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 177 3520 221 5324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 177 3440 221 5324">
+     <span class='ocr_line' id='line_1_1' title="bbox 177 3520 221 5324; baseline -144.923 289.846"><span class='ocrx_word' id='word_1_1' title='bbox 182 3520 205 3611; x_wconf 55' lang='grc' dir='ltr'>ς]</span> <span class='ocrx_word' id='word_1_2' title='bbox 193 3649 197 3651; x_wconf 10' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_3' title='bbox 190 3695 209 3727; x_wconf 61' lang='grc' dir='ltr'>Α,</span> <span class='ocrx_word' id='word_1_4' title='bbox 182 3768 210 3990; x_wconf 54' lang='grc' dir='ltr'>ειεξιτ</span> <span class='ocrx_word' id='word_1_5' title='bbox 182 4024 209 4223; x_wconf 40' lang='grc' dir='ltr'>,πῖ-,ξι</span> <span class='ocrx_word' id='word_1_6' title='bbox 185 4280 214 4498; x_wconf 57' lang='grc' dir='ltr'>ειεξιτ-ι,</span> <span class='ocrx_word' id='word_1_7' title='bbox 177 4523 221 5324; x_wconf 54' lang='grc' dir='ltr'>ἐ1.ή.1ᾶι.σῦᾀι-ιιι1ΰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3475 6228">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3475 6228">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 3475 6228"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 3475 6228; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
